@@ -2,7 +2,7 @@
 
 This is a simple pomodoro timer built for personal use ( any one can use ) for productivity💯
 
-### It is deployed [here](https://abhik-b.github.io/pomodro-timer/)
+### It is deployed [here](https://pratama404.github.io/pomodoro/)
 
 ---
 
@@ -21,10 +21,3 @@ This is a simple pomodoro timer built for personal use ( any one can use ) for p
 
 # Scores :
 
-Lighthouse scores:
-
-![Lighthousescore](https://github.com/abhik-b/pomodro-timer/blob/master/lighthouse.png)
-
-PageSpeed Insights scores:
-
-![Pagespeedinsights](https://github.com/abhik-b/pomodro-timer/blob/master/pagespeedinsights.png)
